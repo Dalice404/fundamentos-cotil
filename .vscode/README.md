@@ -17,3 +17,15 @@ Também gosto de explorar o lado *criativo* da programação.
 - inglês de criança que está aprendendo a falar
 - HTML
 - CSS iniciante
+
+## Meu Primeiro Programa
+
+Este é um clássico "Olá, Mundo!" em C. A função `printf()` é usada para mostrar o texto na tela.
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Olá, Mundo!\n");
+    return 0;
+}
