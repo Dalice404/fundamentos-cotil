@@ -14,6 +14,8 @@ int main(void) {
         }
     }
 
+        //parabéns! Jheni é zica
+        
     max = v[0];
     for (i = 1; i < TAM; i++) {
         if (v[i] > max) max = v[i];
